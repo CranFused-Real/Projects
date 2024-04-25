@@ -32,8 +32,9 @@ def show_menu(options, current_option):
     """Displays the menu options."""
     clear_screen()
     print(Fore.GREEN + "╔════════════════════════╗")
-    print("║  Welcome to YouTube    ║")
+    print("║   Welcome to YouTube   ║")
     print("║    Video Downloader!   ║")
+    print("║    By CranFused-Real   ║")
     print("╚════════════════════════╝" + Style.RESET_ALL)
     print()
     print("Use the arrow keys to navigate and press Enter to select:")
